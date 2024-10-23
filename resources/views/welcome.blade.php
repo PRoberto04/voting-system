@@ -64,7 +64,7 @@
         <h1>Bem-vindo à Votação</h1>
         <p>
             Ajude seu amigo Paulin a escolher qual rota e quais campeões ele irá usar
-            durante essa season. Durante toda a season terei como primeira opção de rota a 
+            durante essa season. Durante toda a season terei como primeira opção de rota a
             que for mais votada e só poderei jogar com um dos três campeões mais votados.
             A única condição para não jogar com um desses campeões é uma comp das estrelas.
         </p>
